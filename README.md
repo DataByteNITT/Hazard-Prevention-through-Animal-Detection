@@ -34,4 +34,5 @@ Also, specify the images and labels folder paths in the yaml file, which is late
   
 ## References
 Get the Pre-trained Model: https://github.com/ultralytics/yolov5
+
 Make Sense.Ai: https://www.makesense.ai/
