@@ -9,16 +9,16 @@ The goal of this project is to create a system that can detect animals and class
 2.GPUs(if available)
 
 **Packages**:
-1.matplotlib>=3.2.2
-2.numpy>=1.18.5
-3.opencv-python>=4.1.1
-4.PyYAML>=5.3.1
-5.scipy>=1.4.1
-6.torch>=1.8.0  
-7.torchvision>=0.9.1
-8.tqdm>=4.64.0
-9.pandas>=1.1.4
-10.seaborn>=0.11.0
+*1.matplotlib>=3.2.2
+*2.numpy>=1.18.5
+*3.opencv-python>=4.1.1
+*4.PyYAML>=5.3.1
+*5.scipy>=1.4.1
+*6.torch>=1.8.0  
+*7.torchvision>=0.9.1
+*8.tqdm>=4.64.0
+*9.pandas>=1.1.4
+*10.seaborn>=0.11.0
  
 **NOTE**:
 Python and pip are a must, using which the above packages can be installed during runtime.
