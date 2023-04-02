@@ -1,0 +1,18 @@
+---Contents---
+AnimalDetection.ipynb - yolo v5 training model
+deepsort.ipynb - object tracking 
+dist.py - Code to find distance between two bounding boxes (used YOLOv3)
+data.zip - zip folder with images and labels (train and val)
+custom.yaml - yaml file for our dataset
+bestv2.pt - Trained weights
+
+---Errors---
+
+Animal Detection - can only detect animals , not track them
+
+deepsort.ipynb - works for images , but not for videos
+
+---To Do---
+
+Integrate the deepsort object tracking with thw weights 'bestv2.pt' 
+
